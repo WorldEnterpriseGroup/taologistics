@@ -1,0 +1,6 @@
+/* CSS-file with custom styles - don't delete this comment */
+/* KRASHNIK */ 
+object{
+    pointer-events: none;
+}
+#loadOverlay{display: none;}
